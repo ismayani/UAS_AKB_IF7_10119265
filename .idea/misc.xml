@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/personal/Desktop/TUGAS UAS AKB/Maya/UAS AKB IF-7 10119265/app/src/main/res/layout/activity_add_edit_pena.xml" value="0.12310030395136778" />
+        <entry key="..\:/personal/Desktop/TUGAS UAS AKB/Maya/UAS AKB IF-7 10119265/app/src/main/res/layout/activity_identitas.xml" value="0.12310030395136778" />
+        <entry key="..\:/personal/Desktop/TUGAS UAS AKB/Maya/UAS AKB IF-7 10119265/app/src/main/res/layout/activity_info.xml" value="0.12310030395136778" />
+        <entry key="..\:/personal/Desktop/TUGAS UAS AKB/Maya/UAS AKB IF-7 10119265/app/src/main/res/layout/activity_login_pena.xml" value="0.264" />
+        <entry key="..\:/personal/Desktop/TUGAS UAS AKB/Maya/UAS AKB IF-7 10119265/app/src/main/res/layout/activity_registrasi_pena.xml" value="0.264" />
+        <entry key="..\:/personal/Desktop/TUGAS UAS AKB/Maya/UAS AKB IF-7 10119265/app/src/main/res/layout/activity_splash_screen.xml" value="0.12310030395136778" />
+        <entry key="..\:/personal/Desktop/TUGAS UAS AKB/Maya/UAS AKB IF-7 10119265/app/src/main/res/layout/info_items.xml" value="0.12310030395136778" />
+        <entry key="..\:/personal/Desktop/TUGAS UAS AKB/Maya/UAS AKB IF-7 10119265/app/src/main/res/layout/pena_items.xml" value="0.12310030395136778" />
+        <entry key="..\:/personal/Desktop/TUGAS UAS AKB/Maya/UAS AKB IF-7 10119265/app/src/main/res/layout/popup.xml" value="0.12310030395136778" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892998254161",
+    "project_id": "uas-akb-if-7-10119265-99a2c",
+    "storage_bucket": "uas-akb-if-7-10119265-99a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892998254161:android:16a77edf3c2dca26ee0270",
+        "android_client_info": {
+          "package_name": "com.ismemaya.uasakbif_710119265"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892998254161-c6a9qaghtqc7hndnt6vjobela0eguq9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ismemaya.uasakbif_710119265",
+            "certificate_hash": "5cb2fd81dee731bb969edd81a463726ed1ed5ba3"
+          }
+        },
+        {
+          "client_id": "892998254161-n94841k9g7daa119olmep9k0rn1eeiug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjL5qMe2sczTChTSh2yCVSf5xpnmKsu5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892998254161-n94841k9g7daa119olmep9k0rn1eeiug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

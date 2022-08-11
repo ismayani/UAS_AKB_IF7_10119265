@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/Judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Judul"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/Ttb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tanggal Buat"
+        android:textSize="16sp"/>
+    <TextView
+        android:id="@+id/Kategori"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kategori"
+        android:textSize="16sp"/>
+    <TextView
+        android:id="@+id/Isi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Isi"
+        android:textSize="16sp"/>
+
+
+</LinearLayout>
